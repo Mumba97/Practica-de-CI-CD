@@ -1,2 +1,2 @@
 # Practica-de-CI-CD
-repositorio publio para prueba 
+repositorio publico para prueba 
