@@ -1,4 +1,4 @@
-ii# Practica-de-CI-CD
+iii# Practica-de-CI-CD
 repositorio publico para prueba 
 Pasos para resolver la practica
 1. Definir los Requisitos y Objetivos del Pipeline
@@ -21,7 +21,5 @@ Pasos para resolver la practica
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/f548c834-7f81-430a-b5ee-0149e237ae7c)
 <<<<<<< HEAD
 4- Como pasos siguietes se realiza el WORKFLOW
-=======
 
->>>>>>> 4fd32dfe32a3fc0aed9adc83eb33327a8b48eeb5
-
+5-se realizan prueas desde git para realizar un push
