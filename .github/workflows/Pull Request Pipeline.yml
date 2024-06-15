@@ -6,15 +6,18 @@ on:
       - main
 
 jobs:
-  build_and_test:
+  build_and_test: pruebas de api
     runs-on: ubuntu-latest
 
     steps:
-    - name: Revision de codigo
+    - name: Checkout code
       uses: actions/checkout@v2
-      with:
-        repository: ${{ github.event.pull_request.head.repo.full_name }}
-        ref: ${{ github.event.pull_request.head.ref }}
+
+    - name: Install unzip
+      run: sudo apt-get install unzip
+
+    - name: Unzip application code
+      run: unzip path/to/your/application.zip -d ./application
 
     - name: Set up Node.js
       uses: actions/setup-node@v2
@@ -22,10 +25,17 @@ jobs:
         node-version: '14'
 
     - name: Install dependencies
-      run: npm install
+      run: |
+        cd ./application
+        npm install
 
     - name: Build the project
-      run: npm run build
+      run: |
+        cd ./application
+        npm run build
 
     - name: Run tests
-      run: npm test
+      run: |
+        cd ./application
+        npm test
+
