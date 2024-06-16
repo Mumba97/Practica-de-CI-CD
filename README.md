@@ -60,6 +60,28 @@ se da clic en la pestaña add file u upload files para subir archivos al repo
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/9bc412fd-b5dc-4630-91a9-2308bf22842f)
 
 
+8- ya con el codigo en el repositorio remoto podemos proceder a realizar la action que se necesita para el pipeline.
+
+Los requerimietos del equipo son que se buscan desplegar el API se debe crear un pipeline de integración continua que construya, ejecute las
+pruebas y guarde el artefacto generado (JAR) de la aplicación. 
+
+Para eso se debe configurar el archivo formato .yml , por lo que se da clic en actions 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/85ccdcd2-a05f-4261-957b-16717fd37498)
+
+aqui se le da clic en New workflow 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/11dfeb62-5166-4f9e-842a-2f4d7d3ab2f1)
+
+se pueden seleccionar las herramietas que sean de utilidad para le proyecto, en este caso nos podemos apoyar del template Publish java Package with Maven o java whit maven, ya que el script se incia con Maven 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/dc99aaeb-3c9c-4139-bbcd-2fa0b5c60eaa)
+
+esto nos da un codigo en formato .yml que debemos configurar a nuestra conveniencia para entregar el resultado esperado 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/22474140-50a2-4805-a25a-4de884e244a8)
+
+
 
 
 
