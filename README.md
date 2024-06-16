@@ -85,6 +85,33 @@ Para este caso se realizo el siguiente codigo, ya que se busca que despues de ca
 
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/28fe1ec2-ad6d-4696-8440-b1130d8b6b34)
 
+Para realizar un pull request se debe de crear una nueva rama para comparar con la main, desde git o desde la consola directa de github
+
+- para hacerla desde la consola de git se usa el comando git checkout -b 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/42bbafa2-325c-4b34-9578-067ef1c34bd0)
+
+se crea un archivo con modificaciones y se realiza un git add, un git commit u al final un push
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/0447cb24-ac59-4535-a4d4-f514312ce780)
+
+una vez realizada la carga se regresa a la consola de github y se accede a pull request y se da clic en new pull request 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/f91c202e-616a-4239-b212-5b8e68ec4313)
+
+se eligen las ramas a comparar
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/fb78b125-9406-4e84-bda5-60d689abfe5d)
+
+y se corre el nuevo pull, dando resultados satisfactorios
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/29866192-4106-42f8-b4c8-0eb5dc6914c6)
+
+obteniedo los logs esperados de la creacion 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/2c492509-fbf7-4186-98a9-ef8cf3c5d001)
+
+
 
 
 
