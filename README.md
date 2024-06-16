@@ -111,6 +111,34 @@ obteniedo los logs esperados de la creacion
 
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/c9f9fc90-f412-4e75-a0d7-916128c8ab4c)
 
+Respondiendo a las preguntas 
+
+¿Consideras útil agrega la acción de caché al workflow?
+
+Si, ya que agregarlo podria acelerar los tiempos de compilacion al reutilizar las ejecuciones anteriores 
+
+la siguiente pregunta seria 
+
+ ¿Es posible desplegar automáticamente el artefacto guardado en Packages con Github Actions?
+
+Si, es posible desplegar automaticamente el artefacto guardado en github packages y utilizando actions, aqui ya se puede integrar con ottras herramietas, ya sea un servidor remoto en aws u otro tipo.
+
+
+para trabajar con contenedores es importante incorporar pasos que construyan, etiqueten, publiquen y desplieguen la imagen de contenedr de manera eficiente y segura.
+
+- Para responder la ultima pregunta sobre  ¿Qué pasos y/o herramientas utilizarías para
+entender las plantillas de Cloudformation y evaluar que ajustes se tendrían que realizar a la etapa de
+despliegue?
+
+- priemero me dedicaria a comprender la estructura interna de las plantillas para ver que secciones tienen y comprender que hacen, a que estan destinadas.
+- consultaria la documentacion de ellas
+- Para validar las plantillas de cloud formation, se puede usar el comando    validate-template  desde el cli de AWS,, este nos ayudara a validar la sintaxis de la plantilla.
+- continuando con AWS, tambien nos da herramientas como CloudFormation Designer que nos ayuda a modificar graficamente la plantilla
+- tambien se pueden hacer simulaciones en entornos controlados antes de llevar las plantillas a produccion, para asi descartr cualquier problema con la plantilla
+- y al final de despliegue siempre es bueno mantener un continuo monitoreo de todo lo configurado por las plantilla.
+
+
+
 
 
 
