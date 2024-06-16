@@ -109,7 +109,8 @@ y se corre el nuevo pull, dando resultados satisfactorios
 
 obteniedo los logs esperados de la creacion 
 
-![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/2c492509-fbf7-4186-98a9-ef8cf3c5d001)
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/c9f9fc90-f412-4e75-a0d7-916128c8ab4c)
+
 
 
 
