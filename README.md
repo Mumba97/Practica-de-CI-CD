@@ -83,7 +83,9 @@ esto nos da un codigo en formato .yml que debemos configurar a nuestra convenien
 
 Para este caso se realizo el siguiente codigo, ya que se busca que despues de cada pull request en la rama main se construya la aplicacion y se publique en formato .jar
 
-![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/ffb06f97-f19f-4fee-ba29-77359636caa2)
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/28fe1ec2-ad6d-4696-8440-b1130d8b6b34)
+
+
 
 
 
