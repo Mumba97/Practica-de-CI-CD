@@ -27,8 +27,10 @@ Pasos para resolver la practica
 https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe
 una vez descargado e instalado se procede a clonar el repositorio con el comando git clone 
 pero antes te debes de posicionar en la carpeta donde quieres realizar el clonado
-una vez aqui, con el comando git clone y el link del repositorio previamete copiado se procede a relaizar el clonado 
+una vez aqui, con el comando git clone y el link del repositorio previamete copiado se procede a realizar el clonado 
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/c9c61ec8-a177-4aaf-922e-eab904aa7df1)
+
+6- una vez clonado se pueden realizar cambios de manera local y subirlos al repo de 
 
 
 
