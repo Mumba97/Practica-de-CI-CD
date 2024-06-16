@@ -30,7 +30,13 @@ pero antes te debes de posicionar en la carpeta donde quieres realizar el clonad
 una vez aqui, con el comando git clone y el link del repositorio previamete copiado se procede a realizar el clonado 
 ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/c9c61ec8-a177-4aaf-922e-eab904aa7df1)
 
-6- una vez clonado se pueden realizar cambios de manera local y subirlos al repo de 
+6- una vez clonado se pueden realizar cambios de manera local y subirlos al repo remoto
+7- se procede a subir el archivo con el codigo, esto puede hacerse desde la maquina local y git o directamente en la consola de github, se muestran ambas maneras 
+ a) manera 1 de manera local 
+   se copia la carpeta .zip en la carpeta creada despues de la clonacion en la maquina local
+   ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/8975353f-ca2c-4dcf-9ef3-8455f0e39b2f)
+ una vez copiada la carpeta nos ayudamos de git, para ver los status de cambios con el comando git status
+ ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/7c3b358a-6d76-4a0e-be4a-62d4affc77d9)
 
 
 
