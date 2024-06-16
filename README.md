@@ -46,6 +46,24 @@ una vez aqui, con el comando git clone y el link del repositorio previamete copi
 
  ![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/3676865a-5822-4ea9-9987-e184c40d7956)
 
+con esto ya podemos hacer un git commit -m "prueba1" para realizar cambios y comentarlo con alguna etiqueta
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/6684a2ff-9c15-4c96-8b03-fbd3424803c5)
+
+para finalmente realizar la subida de los cambios realizados se ocupa el comando git push que subira los cambios realizados al repo remoto 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/7fc7b122-f0ef-418f-9e07-701f1b9579b4)
+
+b) desde la consola de github 
+
+se da clic en la pestaña add file u upload files para subir archivos al repo 
+
+![image](https://github.com/Mumba97/Practica-de-CI-CD/assets/121688225/9bc412fd-b5dc-4630-91a9-2308bf22842f)
+
+
+
+
+
+
 
 
 
